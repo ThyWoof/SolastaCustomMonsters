@@ -1,0 +1,9 @@
+﻿{
+	"Id": "SolastaCustomMonsters",
+	"DisplayName": "SolastaCustomMonsters",
+	"Author": "Zappastuff",
+	"Version": "1.0.0",
+	"ManagerVersion": "0.22.14",
+	"AssemblyName": "SolastaCustomMonsters.dll",
+	"EntryMethod": "SolastaCustomMonsters.Main.Load"
+}
